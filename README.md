@@ -1,4 +1,4 @@
-# Awesome Loomly Alternatives [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Best Loomly Alternatives [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of the best Loomly alternatives and social media scheduling tools, maintained by [ContentStudio](https://contentstudio.io).
 
